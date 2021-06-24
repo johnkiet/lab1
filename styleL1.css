@@ -1,0 +1,171 @@
+.header{
+    background-color: rgb(230, 230, 230);
+}
+.menu{
+    margin-left: 150px;
+    margin-right: 150px;
+    max-height: 40px;
+    align-items: center;
+}
+.menu ul{
+    margin-bottom: 0;
+}
+.menu a{
+    margin-left: 0.5rem;
+    text-decoration: none;
+    border-right: 2px solid  rgb(138, 138, 138);
+    border-left: 2px solid  rgb(138, 138, 138);
+}
+.menu a:hover{
+    color: blue;
+}
+.like{
+    background-color: rgb(108, 108, 255);
+    border-style: none;
+    width: 80px;
+    height: 28px;
+    border-radius:5px 5px 5px 5px;
+    margin-left: 10px;
+}
+.like:hover{
+    background-color: rgb(132, 0, 255);
+}
+.follow{
+    background-color: rgb(64, 64, 255);
+    border-style: none;
+    width: 100px;
+    height: 28px;
+    border-radius:5px 5px 5px 5px;
+}
+.follow:hover{
+    background-color: blue;
+}
+.youtube{
+    background-color: rgb(238, 85, 85);
+    border-style: none;
+    width: 110px;
+    height: 28px;
+    border-radius:5px 5px 5px 5px;
+}
+.youtube:hover{
+    background-color: rgb(247, 1, 1);
+}
+.banner a{
+    float: left;
+    max-width: 500px;
+    
+}
+.banner .a1 img{    
+     width:315px;
+     height:135px;
+     margin-left: 150px;
+}
+.banner .a2 img{
+    width:410px;
+    height:135px;
+    margin-left: 0;
+}
+.banner .a3 img{
+    width:415px;
+    height:135px;
+}
+.menu-mid{
+    float: left;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+.menu-mid a{
+    color: black;
+    text-decoration: none;
+    border-right: 1px solid  rgb(207, 207, 207);
+    float: left;
+    margin-left: 7px;
+    text-align: center;
+    font-weight: bold;
+}
+.menu-mid a:hover{
+    color: blue;
+    
+}
+.left-TN {
+    background-color: rgb(236, 236, 236);
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(209, 42, 75);
+    margin-left: 150px;
+    float: left;
+    color: black;
+    text-decoration: none;
+    border-radius:15px 15px 15px 15px;
+    width: 110px;
+    height: 40px;
+}
+.left-TN p{
+    margin-top: 0.6rem;
+    margin-left: 3px;
+    margin-bottom: 5px;
+}
+.left-TN img{
+    margin-top: 8px;
+    max-width: 500px;
+    max-height: 300px;
+}
+.left-TN .chu1{
+    font-size: 22px;color: rgb(209, 42, 75);
+    width: 500px;
+    max-height: 50px;
+}
+.left-TN .chu2{
+    font-size: 15px;
+    width: 500px;
+    max-height: 50px;
+    font-weight: normal;
+}
+
+.right-TN .top a:hover{
+    color: deepskyblue;
+}
+.right-TN .top a{
+    text-decoration: none;
+    color: black;
+}
+.right-TN .top ul{
+    list-style: none;
+    
+}
+.right-TN .top li{
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.right-TN .top{
+    float: left;
+    margin-left: 360px;
+    margin-top: 30px;
+    max-width: 300px;
+}
+.right-TN .top h3{
+    border-top: 2px solid rgb(209, 42, 75);
+    width: 90px;
+    background-color: rgb(240, 240, 240);
+}
+.right-TN .top h2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.right-TN .top img{
+    margin-left: 100px;
+    margin-top: 0;
+}
+.right {
+    float: left;
+    margin-left: 5px;
+}
+.right p{
+    margin-top: 1rem;
+    margin-bottom: 3px;
+}
+.right img{
+    max-width: 367px;
+
+}
